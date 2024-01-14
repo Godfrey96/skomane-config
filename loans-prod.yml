@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to SkomaneBank accounts related PRODUCTION APIs"
+  message: "Welcome to SkomaneBank accounts related prod APIs"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}d99f0dd944204247f787352ec7cbda834d72d12da8f77891dd89b4462bf67da1372474224cf67564307cf5526ef2a044"
